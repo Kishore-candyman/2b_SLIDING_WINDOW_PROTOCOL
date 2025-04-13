@@ -53,4 +53,4 @@ Server:
 ![Screenshot 2025-04-12 140919](https://github.com/user-attachments/assets/78dcee58-8e23-4bea-95ee-45f8d3dccf99)
 
 ## RESULT
-Thus, python program to perform stop and wait protocol was successfully executed
+Thus, python program to perform sliding window protocol was successfully executed
